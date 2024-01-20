@@ -1,4 +1,4 @@
-module github.com/inancgumus/screen
+module github.com/ilovebmo/go-screen
 
 go 1.21.6
 

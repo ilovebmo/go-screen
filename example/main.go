@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/inancgumus/screen"
+	"github.com/ilovebmo/go-screen"
 )
 
 func main() {

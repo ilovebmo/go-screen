@@ -5,7 +5,7 @@ The screen package provides an easy way for clearing the screen, moving the curs
 ## Installation
 
 ```
-$ go get -u github.com/inancgumus/screen
+$ go get -u github.com/ilovebmo/go-screen
 ```
 
 ## Clearing the Screen
@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/inancgumus/screen"
+	"github.com/ilovebmo/go-screen"
 )
 
 func main() {
